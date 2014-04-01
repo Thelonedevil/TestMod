@@ -1,0 +1,61 @@
+tile.bloodore.name=Blood Ore
+tile.bloodblock.name=Crystalline Block of Blood
+
+item.bloodcrystal.name=Blood Crystal
+item.alienbloodcrystal.name=Extra-Terrestrial Blood Crystal
+
+item.bloodLeatherboots.name=Blood Soaked Leather Boots
+item.bloodGoldboots.name=Blood Soaked Gold Boots
+item.bloodChainboots.name=Blood Soaked Chainmail Boots
+item.bloodIronboots.name=Blood Soaked Iron Boots
+item.blooddiamondboots.name=Blood Soaked Diamond Boots
+
+item.bloodLeatherchestplate.name=Blood Soaked Leather Chestplate
+item.bloodGoldchestplate.name=Blood Soaked Gold Chestplate
+item.bloodChainchestplate.name=Blood Soaked Chainmail Chestplate
+item.bloodIronchestplate.name=Blood Soaked Iron Chestplate
+item.blooddiamondchestplate.name=Blood Soaked Diamond Chestplate
+
+item.bloodLeatherhelmet.name=Blood Soaked Leather Helmet
+item.bloodGoldhelmet.name=Blood Soaked Gold Helmet
+item.bloodChainhelmet.name=Blood Soaked Chainmail Helmet
+item.bloodIronhelmet.name=Blood Soaked Iron Helmet
+item.blooddiamondhelmet.name=Blood Soaked Diamond Helmet
+
+item.bloodLeatherleggings.name=Blood Soaked Leather Leggings
+item.bloodGoldleggings.name=Blood Soaked Gold Leggings
+item.bloodChainleggings.name=Blood Soaked Chainmail Leggings
+item.bloodIronleggings.name=Blood Soaked Iron Leggings
+item.blooddiamondleggings.name=Blood Soaked Diamond Leggings
+
+item.alienLeatherboots.name=Extra-Terrestrial and Terrestrial Blood Soaked Leather Boots
+item.alienGoldboots.name=Extra-Terrestrial and Terrestrial Blood Soaked Gold Boots
+item.alienChainboots.name=Extra-Terrestrial and Terrestrial Blood Soaked Chainmail Boots
+item.alienIronboots.name=Extra-Terrestrial and Terrestrial Blood Soaked Iron Boots
+item.aliendiamondboots.name=Extra-Terrestrial and Terrestrial Blood Soaked Diamond Boots
+
+item.alienLeatherchestplate.name=Extra-Terrestrial and Terrestrial Blood Soaked Leather Chestplate
+item.alienGoldchestplate.name=Extra-Terrestrial and Terrestrial Blood Soaked Gold Chestplate
+item.alienChainchestplate.name=Extra-Terrestrial and Terrestrial Blood Soaked Chainmail Chestplate
+item.alienIronchestplate.name=Extra-Terrestrial and Terrestrial Blood Soaked Iron Chestplate
+item.aliendiamondchestplate.name=Extra-Terrestrial and Terrestrial Blood Soaked Diamond Chestplate
+
+item.alienLeatherhelmet.name=Extra-Terrestrial and Terrestrial Blood Soaked Leather Helmet
+item.alienGoldhelmet.name=Extra-Terrestrial and Terrestrial Blood Soaked Gold Helmet
+item.alienChainhelmet.name=Extra-Terrestrial and Terrestrial Blood Soaked Chainmail Helmet
+item.alienIronhelmet.name=Extra-Terrestrial and Terrestrial Blood Soaked Iron Helmet
+item.aliendiamondhelmet.name=Extra-Terrestrial and Terrestrial Blood Soaked Diamond Helmet
+
+item.alienLeatherleggings.name=Extra-Terrestrial and Terrestrial Blood Soaked Leather Leggings
+item.alienGoldleggings.name=Extra-Terrestrial and Terrestrial Blood Soaked Gold Leggings
+item.alienChainleggings.name=Extra-Terrestrial and Terrestrial Blood Soaked Chainmail Leggings
+item.alienIronleggings.name=Extra-Terrestrial and Terrestrial Blood Soaked Iron Leggings
+item.aliendiamondleggings.name=Extra-Terrestrial and Terrestrial Blood Soaked Diamond Leggings
+
+item.camodiamondchestplate.name=Extra-Terrestrial and Terrestrial Blood Soaked Diamond Chestplate of Camouflage (WIP)
+item.camogoldchestplate.name=Extra-Terrestrial and Terrestrial Blood Soaked Gold Chestplate of Camouflage (WIP)
+item.camochainchestplate.name=Extra-Terrestrial and Terrestrial Blood Soaked Chainmail Chestplate of Camouflage (WIP)
+item.camoironchestplate.name=Extra-Terrestrial and Terrestrial Blood Soaked Iron Chestplate of Camouflage (WIP)
+item.camoleatherchestplate.name=Extra-Terrestrial and Terrestrial Blood Soaked Leather Chestplate of Camouflage (WIP)
+
+itemGroup.TestMod=Test Mod
